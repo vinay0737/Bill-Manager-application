@@ -1,0 +1,11 @@
+.bill-chart-container {
+  background-color: white;
+  padding: 1.5rem; /* 24px */
+  border-radius: 0.5rem; /* 8px */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+.bill-chart-container canvas {
+  max-width: 100%;
+  height: auto;
+}
